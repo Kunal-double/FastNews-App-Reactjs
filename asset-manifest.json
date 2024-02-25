@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FastNews/static/css/main.31d6cfe0.css",
-    "main.js": "/FastNews/static/js/main.ca4403b1.js",
-    "static/js/787.4c026eef.chunk.js": "/FastNews/static/js/787.4c026eef.chunk.js",
-    "static/media/loading.gif": "/FastNews/static/media/loading.b8d4c3fd448307a703ca.gif",
-    "index.html": "/FastNews/index.html",
-    "main.ca4403b1.js.map": "/FastNews/static/js/main.ca4403b1.js.map",
-    "787.4c026eef.chunk.js.map": "/FastNews/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/FastNews-App-Reactjs/static/css/main.31d6cfe0.css",
+    "main.js": "/FastNews-App-Reactjs/static/js/main.99287d41.js",
+    "static/js/787.4c026eef.chunk.js": "/FastNews-App-Reactjs/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/FastNews-App-Reactjs/static/media/loading.b8d4c3fd448307a703ca.gif",
+    "index.html": "/FastNews-App-Reactjs/index.html",
+    "main.99287d41.js.map": "/FastNews-App-Reactjs/static/js/main.99287d41.js.map",
+    "787.4c026eef.chunk.js.map": "/FastNews-App-Reactjs/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ca4403b1.js"
+    "static/js/main.99287d41.js"
   ]
 }
