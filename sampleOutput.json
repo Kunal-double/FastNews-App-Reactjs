@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "British diplomats evacuated from Sudan",
+            "description": "British diplomats and their families evacuated from Sudan in a \"complex and rapid\" operation, Prime Minister Rishi Sunak confirms",
+            "url": "http://www.bbc.co.uk/news/uk-65367019",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-04-23T12:37:16.3519796Z",
+            "content": "British diplomats and their families have been evacuated from Sudan in a \"complex and rapid\" operation, Prime Minister Rishi Sunak has confirmed. \r\nMr Sunak said work was continuing to ensure the saf… [+870 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Twitter restores blue tick to high profile accounts",
+            "description": "Twitter restores the verified blue badge to accounts that insist they did not pay for a subscription.",
+            "url": "http://www.bbc.co.uk/news/technology-65365366",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/104A5/production/_129452766_gettyimages-1244636244.jpg",
+            "publishedAt": "2023-04-23T10:07:18.4295064Z",
+            "content": "Some Twitter accounts with more than one million followers have had their blue tick badges re-instated by Twitter without paying to subscribe.\r\nBeyoncé, Harry Kane, Richard Osman and Victoria Beckham… [+2720 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Amritpal Singh: Sikh separatist arrested after weeks on the run",
+            "description": "Indian police have arrested self-styled Sikh preacher Amritpal Singh, who was accused of attempted murder.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-65063620",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3E17/production/_129159851_gettyimages-1248619736-594x594.jpg",
+            "publishedAt": "2023-04-23T03:52:13.9606522Z",
+            "content": "Self-styled preacher Amritpal Singh, whose calls for Sikh independence riled India's authorities, has been arrested in Punjab state, police say.\r\nThe 30-year-old had been on the run for more than a m… [+2257 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kenya cult deaths: 21 bodies found in investigation into 'starvation cult'",
+            "description": "A preacher in custody allegedly told followers to starve themselves in order to \"meet Jesus\".",
+            "url": "http://www.bbc.co.uk/news/world-africa-65363585",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6C43/production/_129451772_mediaitem129451771.jpg",
+            "publishedAt": "2023-04-23T00:52:13.8673327Z",
+            "content": "Kenyan police have exhumed 21 bodies near the coastal town of Malindi, as they investigate a preacher said to have told followers to starve to death.\r\nDead children were among those exhumed, and poli… [+1330 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sudan fighting: Limited evacuation of foreigners begins",
+            "description": "Canada tells its citizens to \"shelter in a safe place” as some foreign officials are evacuated by sea.",
+            "url": "http://www.bbc.co.uk/news/world-africa-65363586",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09D3/production/_129451520_8f55d78cb45b71205313d2c3d4da4a9e80e667890_0_2000_13311000x666.jpg",
+            "publishedAt": "2023-04-23T00:52:12.4319593Z",
+            "content": "The UK government is considering ways to evacuate its embassy staff from Sudan, as fighting between rival armies continues in the capital Khartoum.\r\nMore than 150 people were evacuated by sea to the … [+3864 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Prince Louis' fifth birthday marked by wheelbarrow photo",
+            "description": "Louis is fourth in line to the throne following the death of the late Queen Elizabeth II, last September.",
+            "url": "http://www.bbc.co.uk/news/uk-65362733",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D43/production/_129451358_954718ec84ff55888bd846ee3184a1472543566f.jpg",
+            "publishedAt": "2023-04-22T23:22:16.4599148Z",
+            "content": "An image of a smiling Prince Louis being pushed in a wheelbarrow by his mother is one of two released to mark his fifth birthday on Sunday.\r\nThe other is a close-up shot of the beaming youngster as h… [+1638 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Magazine editor sacked over Schumacher AI 'interview'",
+            "description": "The editor of a German magazine that published an artificial intelligence-generated 'interview' with Michael Schumacher has been sacked.",
+            "url": "http://www.bbc.co.uk/sport/formula1/65361193",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1086B/production/_129419676_hi020461788.jpg",
+            "publishedAt": "2023-04-22T23:22:15.5576909Z",
+            "content": "The April 15 front cover of weekly German magazine Die Aktuelle\r\nThe editor of a German magazine that published an artificial intelligence-generated 'interview' with Michael Schumacher has been sacke… [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Waterspout crashes onto beach full of people in Miami",
+            "description": "Strong winds send a man flying, luckily to no harm, while sun chairs scatter along Miami beach front.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65358298",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/329A/production/_129445921_p0fj5dwt.jpg",
+            "publishedAt": "2023-04-22T08:37:13.8511907Z",
+            "content": "Video from a CBS news helicopter shows the moment a waterspout crashed onto a beach full of people.\r\nStrong winds sent one man flying backwards but luckily to no harm at Hollywood Beach, Miami. \r\nThe… [+118 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Supreme Court preserves abortion drug access",
+            "description": "US Supreme Court preserves access to the common abortion drug mifepristone, while a legal case over restrictions continues",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65356390",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-04-21T23:07:18.7530349Z",
+            "content": "The US Supreme Court has preserved access to a commonly used abortion pill, ruling the drug can remain available while a lawsuit continues.\r\nIn a split decision, it also rejected restrictions on the … [+358 chars]"
+        }
+    ]
+}
